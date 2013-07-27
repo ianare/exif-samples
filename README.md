@@ -1,4 +1,4 @@
-exif-py-tests
-=============
+Exif Samples
+============
 
-Test files for EXIF.py
+Sample images for testing Exif metadata retrieval.
