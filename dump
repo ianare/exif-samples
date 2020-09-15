@@ -3066,6 +3066,22 @@ Thumbnail ResolutionUnit (Short): Pixels/Inch
 Thumbnail XResolution (Ratio): 72
 Thumbnail YResolution (Ratio): 72
 
+Opening: exif-samples-master/jpg/Reconyx_HC500_Hyperfire.jpg
+EXIF ColorSpace (Short): sRGB
+EXIF ComponentsConfiguration (Undefined): YCbCr
+EXIF ExifImageLength (Long): 1536
+EXIF ExifImageWidth (Long): 2048
+EXIF ExifVersion (Undefined): 0220
+EXIF ExposureTime (Ratio): 37/2040
+EXIF FlashPixVersion (Undefined): 0100
+EXIF ISOSpeedRatings (Short): 100
+EXIF MakerNote (Undefined): [1, 241, 3, 0, 3, 0, 0, 0, 17, 32, 16, 1, 84, 0, 0, 0, 0, 0, 0, 0, ... ]
+Image ExifOffset (Long): 90
+Image ResolutionUnit (Short): Pixels/Inch
+Image XResolution (Ratio): 72
+Image YCbCrPositioning (Short): Co-sited
+Image YResolution (Ratio): 72
+
 Opening: exif-samples-master/jpg/Ricoh_Caplio_RR330.jpg
 File has JPEG thumbnail
 EXIF ApertureValue (Ratio): 4
