@@ -1,3 +1,10 @@
+Opening: exif-samples-master/heic/samplefilehub.heif
+Image Orientation (Short): Horizontal (normal)
+Image ResolutionUnit (Short): Pixels/Inch
+Image XResolution (Ratio): 72
+Image YCbCrPositioning (Short): Centered
+Image YResolution (Ratio): 72
+
 Opening: exif-samples-master/jpg/Canon_40D.jpg
 File has JPEG thumbnail
 EXIF ApertureValue (Ratio): 45/8
