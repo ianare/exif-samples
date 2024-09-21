@@ -3629,6 +3629,121 @@ Thumbnail ResolutionUnit (Short): Pixels/Inch
 Thumbnail XResolution (Ratio): 72
 Thumbnail YResolution (Ratio): 72
 
+Opening: exif-samples-master/jpg/tests/32-lens_data.jpeg
+File has JPEG thumbnail
+EXIF CVAPattern (Undefined): [0, 2, 0, 2, 0, 1, 1, 2]
+EXIF ColorSpace (Short): sRGB
+EXIF ComponentsConfiguration (Undefined): YCbCr
+EXIF CompressedBitsPerPixel (Ratio): 2
+EXIF Contrast (Short): Normal
+EXIF CustomRendered (Short): Normal
+EXIF DateTimeDigitized (ASCII): 2012:07:14 16:30:12
+EXIF DateTimeOriginal (ASCII): 2012:07:14 16:30:12
+EXIF DigitalZoomRatio (Ratio): 1
+EXIF ExifImageLength (Short): 0
+EXIF ExifImageWidth (Short): 0
+EXIF ExifVersion (Undefined): 0221
+EXIF ExposureBiasValue (Signed Ratio): 0
+EXIF ExposureMode (Short): Auto Exposure
+EXIF ExposureProgram (Short): Aperture Priority
+EXIF ExposureTime (Ratio): 1/500
+EXIF FNumber (Ratio): 28/5
+EXIF FileSource (Undefined): Digital Camera
+EXIF Flash (Short): Flash did not fire
+EXIF FlashPixVersion (Undefined): 0100
+EXIF FocalLength (Ratio): 105
+EXIF FocalLengthIn35mmFilm (Short): 157
+EXIF GainControl (Short): None
+EXIF ISOSpeedRatings (Short): 200
+EXIF InteroperabilityOffset (Long): 8980
+EXIF LightSource (Short): Unknown
+EXIF MakerNote (Undefined): [78, 105, 107, 111, 110, 0, 2, 0, 0, 0, 77, 77, 0, 42, 0, 0, 0, 8, 0, 49, ... ]
+EXIF MaxApertureValue (Ratio): 49/10
+EXIF MeteringMode (Short): Pattern
+EXIF Saturation (Short): Normal
+EXIF SceneCaptureType (Short): Standard
+EXIF SceneType (Undefined): Directly Photographed
+EXIF SensingMethod (Short): One-chip color area
+EXIF Sharpness (Short): Normal
+EXIF SubSecTime (ASCII): 68
+EXIF SubSecTimeDigitized (ASCII): 68
+EXIF SubSecTimeOriginal (ASCII): 68
+EXIF SubjectDistanceRange (Short): 0
+EXIF UserComment (Undefined):
+EXIF WhiteBalance (Short): Auto
+GPS GPSVersionID (Byte): [2, 2, 0, 0]
+Image Artist (ASCII): Ilya Kurikhin
+Image Copyright (ASCII): Ilya Kurikhin
+Image DateTime (ASCII): 2014:11:19 18:08:04
+Image ExifOffset (Long): 342
+Image GPSInfo (Long): 9010
+Image Make (ASCII): NIKON CORPORATION
+Image Model (ASCII): NIKON D300
+Image Orientation (Short): Horizontal (normal)
+Image ResolutionUnit (Short): Pixels/Inch
+Image Software (ASCII): GIMP 2.8.10
+Image XResolution (Ratio): 300
+Image YCbCrPositioning (Short): Co-sited
+Image YResolution (Ratio): 300
+Interoperability InteroperabilityIndex (ASCII): R98
+Interoperability InteroperabilityVersion (Undefined): [48, 49, 48, 48]
+MakerNote AEBracketCompensationApplied (Signed Ratio): 0
+MakerNote AFInfo2 (Undefined): [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 49, 48, 48, 0, 0, 0, 100, 20, 246, 0, 0, 0, 0, 0, 0, 0, 0]
+MakerNote AFTune (Undefined): [0, 255, 0, 0]
+MakerNote ActiveDLighting (Short): 0
+MakerNote AutoBracketRelease (Short): 1
+MakerNote AutoFlashMode (ASCII):
+MakerNote BracketingMode (Short): Continuous, no bracketing
+MakerNote ColorBalance (Undefined): []
+MakerNote ColorSpace (Short): 1
+MakerNote CropHiSpeed (Short): [13110, 13312, 12337, 12336, 257, 0, 12337]
+MakerNote ExposureDifference (Undefined): 0 EV
+MakerNote ExposureTuning (Undefined): [0, 1, 6]
+MakerNote ExternalFlashExposureComp (Undefined): 0 EV
+MakerNote FileInfo (Undefined): [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]
+MakerNote FlashBracketCompensationApplied (Undefined): 0 EV
+MakerNote FlashCompensation (Undefined): 0 EV
+MakerNote FlashInfo (Undefined): [0, 0, 0, 0, 48, 49, 48, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 218]
+MakerNote FlashMode (Byte): Did Not Fire
+MakerNote FlashSetting (ASCII):
+MakerNote FocusMode (ASCII):
+MakerNote HighISONoiseReduction (Short): 0
+MakerNote ISOInfo (Undefined): [0, 0, 0, 10, 0, 0, 11, 184, 0, 0, 0, 10, 0, 0]
+MakerNote ISOSetting (Short): [0, 200]
+MakerNote ISOSpeedRequested (Short): [0, 200]
+MakerNote ImageAuthentication (Byte): 0
+MakerNote ImageDataSize (Long): 4283904
+MakerNote LensData (Undefined): [171, 28, 20, 247, 91, 244, 169, 206, 229, 232, 230, 204, 166, 113, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MakerNote LensFStops (Undefined): [64, 1, 12, 0]
+MakerNote LensMinMaxFocalMaxAperture (Ratio): [7/2, 1835008/333849, 412623731/495358395, 1282302404/4273759655]
+MakerNote LensType (Byte): 14
+MakerNote MakernoteVersion (Undefined): 0210
+MakerNote MultiExposure (Undefined): [4, 25, 10, 51, 0, 0, 48, 49, 48, 48, 0, 0, 1, 1, 1, 0]
+MakerNote NikonPreview (Long): 8014
+MakerNote NoiseReduction (ASCII):
+MakerNote PhotoCornerCoordinates (Short): [4352, 2868, 4352, 2868]
+MakerNote PictureControl (Undefined): [0, 0, 0, 0, 0, 0, 83, 84, 65, 78, 68, 65, 82, 68, 0, 0, 0, 0, 0, 0, ... ]
+MakerNote PowerUpTime (Undefined): [0, 0, 0, 0, 0, 0, 0, 0]
+MakerNote ProgramShift (Undefined): 0 EV
+MakerNote Quality (ASCII):
+MakerNote RetouchHistory (Short): [0, 12337, 12339, 0, 0, 0, 255, 0, 0, 0]
+MakerNote SerialNumber (ASCII): 00STANDA
+MakerNote ShotInfo (Undefined): []
+MakerNote Tag 0x00A3 (Byte): 0
+MakerNote TotalShutterReleases (Long): 241575
+MakerNote VRInfo (Undefined): [82, 68, 0, 0, 0, 0, 0, 0]
+MakerNote WhiteBalanceBias (Signed Short): [0, 0]
+MakerNote WhiteBalanceRBCoeff (Ratio): [1, 1, 67/2916352, 0]
+MakerNote Whitebalance (ASCII):
+MakerNote WorldTime (Undefined): [0, 180, 0, 2]
+Thumbnail Compression (Short): JPEG (old-style)
+Thumbnail JPEGInterchangeFormat (Long): 9134
+Thumbnail JPEGInterchangeFormatLength (Long): 3538
+Thumbnail ResolutionUnit (Short): Pixels/Inch
+Thumbnail XResolution (Ratio): 300
+Thumbnail YCbCrPositioning (Short): Co-sited
+Thumbnail YResolution (Ratio): 300
+
 Opening: exif-samples-master/jpg/tests/33-type_error.jpg
 File has JPEG thumbnail
 EXIF ApertureValue (Ratio): 290241/62500
