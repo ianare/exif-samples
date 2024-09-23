@@ -2,7 +2,7 @@
 EXIF_PY := $(if $(shell which EXIF.py),EXIF.py,uvx --from exifread EXIF.py)
 
 # Find images, support multiple case insensitive extensions and file names with spaces
-FIND_IMAGES := find . -regextype posix-egrep -iregex ".*\.(bmp|gif|heic|heif|jpg|jpeg|png|tiff|webp)" -print0 | sort -fz | xargs -0
+FIND_IMAGES := find . -regextype posix-egrep -iregex ".*\.(bmp|gif|heic|heif|jpg|jpeg|png|tiff|webp)" -print0 | LC_COLLATE=C sort -fz | xargs -0
 
 .PHONY: help
 all: help

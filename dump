@@ -1,3 +1,6 @@
+Opening: exif-samples-master/heic/mobile/HMD_Nokia_8.3_5G.heif
+No EXIF information found
+
 Opening: exif-samples-master/heic/mobile/HMD_Nokia_8.3_5G_hdr.heif
 EXIF ExposureProgram (Short): Unidentified
 EXIF ExposureTime (Ratio): 1/125
@@ -26,9 +29,6 @@ Image ExifOffset (Long): 110
 Image GPSInfo (Long): 250
 Image Orientation (Short): Horizontal (normal)
 Image Software (ASCII): 00WW_2_270_SP04
-
-Opening: exif-samples-master/heic/mobile/HMD_Nokia_8.3_5G.heif
-No EXIF information found
 
 Opening: exif-samples-master/heic/samplefilehub.heif
 Image Orientation (Short): Horizontal (normal)
@@ -2650,35 +2650,6 @@ Image YResolution (Ratio): 72
 Thumbnail JPEGInterchangeFormat (Long): 702
 Thumbnail JPEGInterchangeFormatLength (Long): 1322
 
-Opening: exif-samples-master/jpg/mobile/HMD_Nokia_8.3_5G_hdr.jpg
-EXIF ApertureValue (Ratio): 189/100
-EXIF DateTimeOriginal (ASCII): 2021:07:29 21:28:46
-EXIF ExposureProgram (Short): Unidentified
-EXIF ExposureTime (Ratio): 8333/500000
-EXIF FNumber (Ratio): 189/100
-EXIF Flash (Short): Flash did not fire
-EXIF FocalLength (Ratio): 271/50
-EXIF ISOSpeedRatings (Short): 601
-EXIF MeteringMode (Short): CenterWeightedAverage
-EXIF OffsetTime (ASCII): +03:00
-EXIF OffsetTimeDigitized (ASCII): +03:00
-EXIF OffsetTimeOriginal (ASCII): +03:00
-EXIF WhiteBalance (Short): Auto
-GPS GPSDate (ASCII): 2021:07:29
-GPS GPSImgDirection (Ratio): 178
-GPS GPSImgDirectionRef (ASCII): M
-GPS GPSLatitude (Signed Ratio): [60, 59, 2897/100]
-GPS GPSLatitudeRef (ASCII): N
-GPS GPSLongitude (Signed Ratio): [24, 25, 2709/100]
-GPS GPSLongitudeRef (ASCII): E
-GPS GPSTimeStamp (Ratio): [18, 28, 47]
-Image ExifOffset (Long): 126
-Image GPSInfo (Long): 361
-Image Make (ASCII): HMD Global
-Image Model (ASCII): Nokia 8.3 5G
-Image Orientation (Short): Rotated 90 CW
-Image Software (ASCII): 00WW_2_270_SP01
-
 Opening: exif-samples-master/jpg/mobile/HMD_Nokia_8.3_5G.jpg
 EXIF ApertureValue (Ratio): 11/5
 EXIF DateTimeOriginal (ASCII): 2022:08:14 14:12:31
@@ -2707,6 +2678,35 @@ Image Make (ASCII): HMD Global
 Image Model (ASCII): Nokia 8.3 5G
 Image Orientation (Short): Horizontal (normal)
 Image Software (ASCII): 00WW_3_380_SP02
+
+Opening: exif-samples-master/jpg/mobile/HMD_Nokia_8.3_5G_hdr.jpg
+EXIF ApertureValue (Ratio): 189/100
+EXIF DateTimeOriginal (ASCII): 2021:07:29 21:28:46
+EXIF ExposureProgram (Short): Unidentified
+EXIF ExposureTime (Ratio): 8333/500000
+EXIF FNumber (Ratio): 189/100
+EXIF Flash (Short): Flash did not fire
+EXIF FocalLength (Ratio): 271/50
+EXIF ISOSpeedRatings (Short): 601
+EXIF MeteringMode (Short): CenterWeightedAverage
+EXIF OffsetTime (ASCII): +03:00
+EXIF OffsetTimeDigitized (ASCII): +03:00
+EXIF OffsetTimeOriginal (ASCII): +03:00
+EXIF WhiteBalance (Short): Auto
+GPS GPSDate (ASCII): 2021:07:29
+GPS GPSImgDirection (Ratio): 178
+GPS GPSImgDirectionRef (ASCII): M
+GPS GPSLatitude (Signed Ratio): [60, 59, 2897/100]
+GPS GPSLatitudeRef (ASCII): N
+GPS GPSLongitude (Signed Ratio): [24, 25, 2709/100]
+GPS GPSLongitudeRef (ASCII): E
+GPS GPSTimeStamp (Ratio): [18, 28, 47]
+Image ExifOffset (Long): 126
+Image GPSInfo (Long): 361
+Image Make (ASCII): HMD Global
+Image Model (ASCII): Nokia 8.3 5G
+Image Orientation (Short): Rotated 90 CW
+Image Software (ASCII): 00WW_2_270_SP01
 
 Opening: exif-samples-master/jpg/mobile/jolla.jpg
 EXIF ApertureValue (Ratio): 334328577/132351334
