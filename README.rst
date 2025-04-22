@@ -1,3 +1,7 @@
+**THIS REPOSITORY IS NOW ARCHIVED, ALL SAMPLES SHOULD GO TO THE EXIF.py REPOSITORY:**
+
+https://github.com/ianare/exif-py
+
 ============
 Exif Samples
 ============
