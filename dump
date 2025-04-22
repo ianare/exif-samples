@@ -1,3 +1,130 @@
+Opening: exif-samples-master/heic/mobile/HMD_Nokia_8.3_5G_hdr.heif
+EXIF ExposureProgram (Short): Unidentified
+EXIF ExposureTime (Ratio): 1/125
+EXIF FNumber (Ratio): 189/100
+EXIF Flash (Short): Flash did not fire
+EXIF FocalLength (Ratio): 1
+EXIF ISOSpeedRatings (Short): 100
+EXIF MeteringMode (Short): CenterWeightedAverage
+EXIF SubSecTime (ASCII): 364
+EXIF WhiteBalance (Short): Auto
+GPS GPSAltitude (Ratio): 4701593/5000
+GPS GPSAltitudeRef (Byte): 0
+GPS GPSDate (ASCII): 2022:01:12
+GPS GPSImgDirection (Ratio): 82
+GPS GPSImgDirectionRef (ASCII): M
+GPS GPSLatitude (Ratio): [40, 39, 233883/5000]
+GPS GPSLatitudeRef (ASCII): N
+GPS GPSLongitude (Ratio): [3, 45, 12366459/250000]
+GPS GPSLongitudeRef (ASCII): W
+GPS GPSProcessingMethod (ASCII): gps
+GPS GPSSpeed (Ratio): 7559/10000
+GPS GPSSpeedRef (ASCII): K
+GPS GPSTimeStamp (Ratio): [7, 30, 14]
+Image DateTime (ASCII): 2022:01:12 07:30:14
+Image ExifOffset (Long): 110
+Image GPSInfo (Long): 250
+Image Orientation (Short): Horizontal (normal)
+Image Software (ASCII): 00WW_2_270_SP04
+
+Opening: exif-samples-master/heic/mobile/HMD_Nokia_8.3_5G.heif
+No EXIF information found
+
+Opening: exif-samples-master/heic/mobile/iphone_13_pro_max.heif
+EXIF ApertureValue (Ratio): 27767/23734
+EXIF BrightnessValue (Signed Ratio): 51851/34780
+EXIF ColorSpace (Short): Uncalibrated
+EXIF DateTimeDigitized (ASCII): 2022:02:16 12:55:41
+EXIF DateTimeOriginal (ASCII): 2022:02:16 12:55:41
+EXIF DigitalZoomRatio (Ratio): 1512/1511
+EXIF ExifImageLength (Long): 3024
+EXIF ExifImageWidth (Long): 4032
+EXIF ExifVersion (Undefined): 0232
+EXIF ExposureBiasValue (Signed Ratio): 0
+EXIF ExposureMode (Short): Auto Exposure
+EXIF ExposureProgram (Short): Program Normal
+EXIF ExposureTime (Ratio): 1/60
+EXIF FNumber (Ratio): 3/2
+EXIF Flash (Short): Flash did not fire, compulsory flash mode
+EXIF FocalLength (Ratio): 57/10
+EXIF FocalLengthIn35mmFilm (Short): 26
+EXIF ISOSpeedRatings (Short): 250
+EXIF LensMake (ASCII): Apple
+EXIF LensModel (ASCII): iPhone 13 Pro Max back triple camera 5.7mm f/1.5
+EXIF LensSpecification (Ratio): [299253/190607, 9, 3/2, 14/5]
+EXIF MakerNote (Undefined): [65, 112, 112, 108, 101, 32, 105, 79, 83, 0, 0, 1, 77, 77, 0, 49, 0, 1, 0, 9, ... ]
+EXIF MeteringMode (Short): Pattern
+EXIF OffsetTime (ASCII): +01:00
+EXIF OffsetTimeDigitized (ASCII): +01:00
+EXIF OffsetTimeOriginal (ASCII): +01:00
+EXIF SceneType (Undefined): Directly Photographed
+EXIF SensingMethod (Short): One-chip color area
+EXIF ShutterSpeedValue (Signed Ratio): 62534/10573
+EXIF SubSecTimeDigitized (ASCII): 762
+EXIF SubSecTimeOriginal (ASCII): 762
+EXIF SubjectArea (Short): [2007, 1505, 2211, 1328]
+EXIF Tag 0xA460 (Short): 2
+EXIF WhiteBalance (Short): Auto
+Image DateTime (ASCII): 2022:02:16 12:55:41
+Image ExifOffset (Long): 220
+Image HostComputer (ASCII): iPhone 13 Pro Max
+Image Make (ASCII): Apple
+Image Model (ASCII): iPhone 13 Pro Max
+Image Orientation (Short): Rotated 90 CW
+Image ResolutionUnit (Short): Pixels/Inch
+Image Software (ASCII): 15.2.1
+Image XResolution (Ratio): 72
+Image YResolution (Ratio): 72
+MakerNote Tag 0x0001 (Signed Long): 14
+MakerNote Tag 0x0002 (Undefined): [180, 0, 197, 0, 21, 1, 179, 0, 148, 0, 99, 0, 80, 1, 120, 2, 122, 2, 17, 2, ... ]
+MakerNote Tag 0x0003 (Undefined): [6, 7, 8, 85, 102, 108, 97, 103, 115, 85, 118, 97, 108, 117, 101, 89, 116, 105, 109, 101, ... ]
+MakerNote Tag 0x0004 (Signed Long): 1
+MakerNote Tag 0x0005 (Signed Long): 175
+MakerNote Tag 0x0006 (Signed Long): 181
+MakerNote Tag 0x0007 (Signed Long): 1
+MakerNote Tag 0x0008 (Signed Ratio): [-1886126079/621412352, -3525/29, 64/51]
+MakerNote Tag 0x000C (Signed Ratio): [1052199/105295456, 1094266945/1111766084]
+MakerNote Tag 0x000D (Signed Long): 20
+MakerNote Tag 0x000E (Signed Long): 0
+MakerNote Tag 0x0010 (Signed Long): 1
+MakerNote Tag 0x0014 (Signed Long): 12
+MakerNote Tag 0x0017 (Signed Long): 1112547328
+MakerNote Tag 0x0019 (Signed Long): 8192
+MakerNote Tag 0x001A (ASCII): -79FE-
+MakerNote Tag 0x001F (Signed Long): 0
+MakerNote Tag 0x0020 (ASCII): 45F3-837C-3B769EF04210
+MakerNote Tag 0x0021 (Signed Ratio): -2621441/1011810304
+MakerNote Tag 0x0023 (Signed Long): [207958840, 1128347715]
+MakerNote Tag 0x0025 (Signed Long): 5262
+MakerNote Tag 0x0026 (Signed Long): 3
+MakerNote Tag 0x0027 (Signed Ratio): 319841384/297845007
+MakerNote Tag 0x002B (ASCII): 45CE-A12B-26FD40383CD6
+MakerNote Tag 0x002D (Signed Long): 4239
+MakerNote Tag 0x002E (Signed Long): 1
+MakerNote Tag 0x002F (Signed Long): 51
+MakerNote Tag 0x0030 (Signed Ratio): 808506369/33752069
+MakerNote Tag 0x0033 (Signed Long): 12288
+MakerNote Tag 0x0034 (Signed Long): 5
+MakerNote Tag 0x0035 (Signed Long): 4
+MakerNote Tag 0x0036 (Signed Long): 172
+MakerNote Tag 0x0037 (Signed Long): 4
+MakerNote Tag 0x0038 (Signed Long): 205
+MakerNote Tag 0x0039 (Signed Long): 0
+MakerNote Tag 0x003A (Signed Long): 0
+MakerNote Tag 0x003B (Signed Long): 0
+MakerNote Tag 0x003C (Signed Long): 4
+MakerNote Tag 0x003D (Signed Long): 38
+MakerNote Tag 0x0040 (Undefined): [6, 7, 8, 81, 51, 81, 49, 81, 50, 81, 48, 16, 3, 34, 191, 0, 0, 0, 34, 0, ... ]
+MakerNote Tag 0x0041 (Undefined): [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 98, 112, 108, 105, 115, 116, 48, 48, 8, 8, 0, 0, 0, 0]
+MakerNote Tag 0x0042 (Undefined): [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 5, 232, 0, 0, 5, 231, 0, 4, 144, 245, 0, 2]
+MakerNote Tag 0x0043 (Signed Long): 0
+MakerNote Tag 0x0044 (Signed Long): 0
+MakerNote Tag 0x0045 (Signed Long): 0
+MakerNote Tag 0x0046 (Signed Long): 0
+MakerNote Tag 0x0048 (Signed Long): 0
+MakerNote Tag 0x0049 (Signed Long): 0
+MakerNote Tag 0x004A (Signed Long): 2
+
 Opening: exif-samples-master/heic/samplefilehub.heif
 Image Orientation (Short): Horizontal (normal)
 Image ResolutionUnit (Short): Pixels/Inch
@@ -2617,6 +2744,64 @@ Image XResolution (Ratio): 72
 Image YResolution (Ratio): 72
 Thumbnail JPEGInterchangeFormat (Long): 702
 Thumbnail JPEGInterchangeFormatLength (Long): 1322
+
+Opening: exif-samples-master/jpg/mobile/HMD_Nokia_8.3_5G_hdr.jpg
+EXIF ApertureValue (Ratio): 189/100
+EXIF DateTimeOriginal (ASCII): 2021:07:29 21:28:46
+EXIF ExposureProgram (Short): Unidentified
+EXIF ExposureTime (Ratio): 8333/500000
+EXIF FNumber (Ratio): 189/100
+EXIF Flash (Short): Flash did not fire
+EXIF FocalLength (Ratio): 271/50
+EXIF ISOSpeedRatings (Short): 601
+EXIF MeteringMode (Short): CenterWeightedAverage
+EXIF OffsetTime (ASCII): +03:00
+EXIF OffsetTimeDigitized (ASCII): +03:00
+EXIF OffsetTimeOriginal (ASCII): +03:00
+EXIF WhiteBalance (Short): Auto
+GPS GPSDate (ASCII): 2021:07:29
+GPS GPSImgDirection (Ratio): 178
+GPS GPSImgDirectionRef (ASCII): M
+GPS GPSLatitude (Signed Ratio): [60, 59, 2897/100]
+GPS GPSLatitudeRef (ASCII): N
+GPS GPSLongitude (Signed Ratio): [24, 25, 2709/100]
+GPS GPSLongitudeRef (ASCII): E
+GPS GPSTimeStamp (Ratio): [18, 28, 47]
+Image ExifOffset (Long): 126
+Image GPSInfo (Long): 361
+Image Make (ASCII): HMD Global
+Image Model (ASCII): Nokia 8.3 5G
+Image Orientation (Short): Rotated 90 CW
+Image Software (ASCII): 00WW_2_270_SP01
+
+Opening: exif-samples-master/jpg/mobile/HMD_Nokia_8.3_5G.jpg
+EXIF ApertureValue (Ratio): 11/5
+EXIF DateTimeOriginal (ASCII): 2022:08:14 14:12:31
+EXIF ExposureProgram (Short): Unidentified
+EXIF ExposureTime (Ratio): 541/1000000
+EXIF FNumber (Ratio): 11/5
+EXIF Flash (Short): Flash did not fire
+EXIF FocalLength (Ratio): 11/4
+EXIF ISOSpeedRatings (Short): 100
+EXIF MeteringMode (Short): CenterWeightedAverage
+EXIF OffsetTime (ASCII): +03:00
+EXIF OffsetTimeDigitized (ASCII): +03:00
+EXIF OffsetTimeOriginal (ASCII): +03:00
+EXIF WhiteBalance (Short): Auto
+GPS GPSDate (ASCII): 2022:08:14
+GPS GPSImgDirection (Ratio): 56
+GPS GPSImgDirectionRef (ASCII): M
+GPS GPSLatitude (Signed Ratio): [60, 8, 2407/50]
+GPS GPSLatitudeRef (ASCII): N
+GPS GPSLongitude (Signed Ratio): [24, 54, 1219/50]
+GPS GPSLongitudeRef (ASCII): E
+GPS GPSTimeStamp (Ratio): [11, 12, 32]
+Image ExifOffset (Long): 126
+Image GPSInfo (Long): 361
+Image Make (ASCII): HMD Global
+Image Model (ASCII): Nokia 8.3 5G
+Image Orientation (Short): Horizontal (normal)
+Image Software (ASCII): 00WW_3_380_SP02
 
 Opening: exif-samples-master/jpg/mobile/jolla.jpg
 EXIF ApertureValue (Ratio): 334328577/132351334
